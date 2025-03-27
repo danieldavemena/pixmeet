@@ -10,7 +10,7 @@ Made with: ![badge](https://img.shields.io/badge/HTML-e34f26.svg?style=for-the-b
 ![badge](https://img.shields.io/badge/Javascript-f7df1e.svg?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&labelColor=e6e6e6)
 ![badge](https://img.shields.io/badge/Firebase-ffca28.svg?style=for-the-badge&logo=Firebase&logoColor=ffca28&labelColor=e6e6e6)
 
-#
+
 _Landing Page Preview_
 ![image](https://github.com/user-attachments/assets/34201eb0-57c9-4ca1-a329-0cb1a14a2584)
 
