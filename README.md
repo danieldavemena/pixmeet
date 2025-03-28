@@ -1,7 +1,7 @@
 # **Pixmeet**
 A pixel art themed chatroom website combining my passion for programming and pixel art, using firebase for chat and character movement function.
 
-URL: [https://pixmeet.netlify.app/](url)
+URL: [https://pixmeet.netlify.app/](https://pixmeet.netlify.app/)
 
 #
 
